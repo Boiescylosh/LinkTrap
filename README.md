@@ -7,3 +7,5 @@ $ cd LinkTrap
 $ ls
 
 $ bash Linktrap.sh
+
+ICON $ JANGAN DI COPY
