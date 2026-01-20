@@ -23,5 +23,5 @@ TESTED ON TERMINAL
 5. chmod +x LinkTrap.sh
 6. ./LinkTrap.sh atau bash LinkTrap.sh
 
-### Image Preview
+### Image Script
 ![preview](https://i.top4top.io/p_3672vnmkd0.jpg)
